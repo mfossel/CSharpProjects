@@ -1,0 +1,6 @@
+C:\dev\origin\C-Sharp-Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\dev\origin\C-Sharp-Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\dev\origin\C-Sharp-Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\dev\origin\C-Sharp-Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\dev\origin\C-Sharp-Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\dev\origin\C-Sharp-Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

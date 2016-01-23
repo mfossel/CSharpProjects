@@ -1,0 +1,6 @@
+C:\dev\origin\C-Sharp-Projects\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\dev\origin\C-Sharp-Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\dev\origin\C-Sharp-Projects\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\dev\origin\C-Sharp-Projects\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\dev\origin\C-Sharp-Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\dev\origin\C-Sharp-Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
