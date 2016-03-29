@@ -11,26 +11,27 @@ namespace FizzBuzz
         static void Main(string[] args)
         {
             var x = 1;
+            Console.WriteLine("Get Ready for Fizz Buzz!!!!!!!");
 
             for (x=1; x<101; x++)
             {
                 if (x % 3 == 0 && x % 5 == 0)
                 {
-                    Console.WriteLine("FizzBuzz!");
+                    Console.WriteLine("FizzBuzz!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
                 }
                 else if (x % 3 ==0)
                 {
-                    Console.WriteLine("Fizz");
+                    Console.WriteLine("Fizz!");
                 }
                 else if (x % 5 == 0)
                 {
-                    Console.WriteLine("Buzz");
+                    Console.WriteLine("Buzz!");
                 }
                 else
                 {
                     Console.WriteLine(x);
                 }
-                System.Threading.Thread.Sleep(125);
+                System.Threading.Thread.Sleep(215);
             }
             Console.ReadLine();
         }
