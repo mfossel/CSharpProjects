@@ -29,21 +29,21 @@ namespace Fibonacci_Sequence
         static void Main(string[] args)
         {
             int range = GetIntegerFromConsole("Please enter how many Fibonacci numbers you want to see(up to 46):");
-            var count = 0;
-            var n = 1;
-            var nn = 0;
-            var nnn = 1;
+
             Console.WriteLine("=======================");
-            while (count<range)
+            Console.WriteLine("1");
+
+            int a = 0;
+            int b = 1;
+
+            for (int i = 1; i < range; i++)
             {
-                Console.WriteLine(n);
-                n = nn + nnn;
-                nn = nnn;
-                nnn = n;              
-                count = count + 1;
-                System.Threading.Thread.Sleep(125);
-                ;
+                int c = a + b;
+                a = b;            
+                b = c;
+                Console.WriteLine(c);
             }
+
             Console.WriteLine("=======================");
             Console.ReadLine();
 

@@ -4,3 +4,9 @@ C:\dev\origin\C-Sharp-Projects\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\F
 C:\dev\origin\C-Sharp-Projects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csprojResolveAssemblyReference.cache
 C:\dev\origin\C-Sharp-Projects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.exe
 C:\dev\origin\C-Sharp-Projects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.pdb
+C:\dev\CSharpProjects\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.exe.config
+C:\dev\CSharpProjects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.exe
+C:\dev\CSharpProjects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.pdb
+C:\dev\CSharpProjects\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.exe
+C:\dev\CSharpProjects\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.pdb
+C:\dev\CSharpProjects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csprojResolveAssemblyReference.cache
