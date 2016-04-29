@@ -26,24 +26,38 @@ namespace Fibonacci_Sequence
             }
         }
 
-        static void Main(string[] args)
+        static int FindFib (int n)
         {
-            int userNum = GetIntegerFromConsole("Please enter which Fibonaci number you want to see(up to 46):");            
-            var n = 1;
-            var nn = 0;
-            var nnn = 1;
-            var count = 1;
-            while (count < userNum)
-            {                
-                n = nn + nnn;
-                nn = nnn;
-                nnn = n;
-                count = count + 1;
-                ;
+            if (n== 0)
+            {
+                return 0;
             }
 
+            else
+            {
+                int a = 0;
+                int b = 1;
+                for (int i = 2; i < n; i++)
+                {
+                    int c = a + b;
+                    a = b;
+                    b = c;
+                }
+
+                return a + b;
+            }
+
+        }
+
+        static void Main(string[] args)
+        {
+            int userNum = GetIntegerFromConsole("Please enter which Fibonaci number you want to see(up to 46):");
+            int fib = FindFib(userNum);
+
+         
+
             Console.WriteLine("==============================");
-            Console.WriteLine("Fibonacci number " + userNum + " is " + n);
+            Console.WriteLine("Fibonacci number " + userNum + " is " + fib);
             Console.WriteLine("==============================");
             Console.ReadLine();
 

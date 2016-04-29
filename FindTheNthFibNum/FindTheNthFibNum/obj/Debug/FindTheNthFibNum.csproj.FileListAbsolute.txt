@@ -7,3 +7,9 @@ C:\dev\origin\C-Sharp-Projects\FindTheNthFibNum\FindTheNthFibNum\obj\Debug\FindT
 C:\dev\origin\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\bin\Debug\FindTheNthFibNum.exe.config
 C:\dev\origin\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\obj\Debug\FindTheNthFibNum.exe
 C:\dev\origin\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\obj\Debug\FindTheNthFibNum.pdb
+C:\dev\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\bin\Debug\FindTheNthFibNum.exe.config
+C:\dev\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\obj\Debug\FindTheNthFibNum.exe
+C:\dev\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\obj\Debug\FindTheNthFibNum.pdb
+C:\dev\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\bin\Debug\FindTheNthFibNum.exe
+C:\dev\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\bin\Debug\FindTheNthFibNum.pdb
+C:\dev\CSharpProjects\FindTheNthFibNum\FindTheNthFibNum\obj\Debug\FindTheNthFibNum.csprojResolveAssemblyReference.cache
