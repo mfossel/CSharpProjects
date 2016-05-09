@@ -9,4 +9,6 @@ Find the Nth Fibonacci Number
 
 FizzBuzz
 
+Palindrome Check
+
 Sieve of Eratosthenes
